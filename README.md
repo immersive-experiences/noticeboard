@@ -5,6 +5,8 @@ General place to store meeting notes and info
 
 [February 2018 First meeting](#february-2018-first-meeting)
 
+[Upcoming XR events](#upcoming-xr-events)
+
 # February 2018 First meeting
 
 [Here are the slides](https://docs.google.com/presentation/d/1NTPZCPLHcQTjz8u_o3n9lVqX_WWQ9SZ_CYSEcLv29To)
@@ -41,3 +43,10 @@ Suggested alternatives:
 - groups.io
 - Github Wiki
 - Slack (an existing channel)
+
+# Upcoming XR Events
+
++ [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
++ [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
++ [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
++ [Future tech now](https://www.virtualrealityshow.co.uk/), early April
