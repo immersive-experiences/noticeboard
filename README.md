@@ -50,3 +50,4 @@ Suggested alternatives:
 + [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
 + [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
 + [Future tech now](https://www.virtualrealityshow.co.uk/), early April
++ [VR World](https://vrworldevent.com/), late May
