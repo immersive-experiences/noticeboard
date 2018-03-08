@@ -3,9 +3,34 @@ General place to store meeting notes and info
 
 # TOC
 
-[February 2018 First meeting](#february-2018-first-meeting)
+- [March 2018 2nd meeting](#march-2018-2nd-meeting)
+- [February 2018 First meeting](#february-2018-first-meeting)
+- [XR books](#xr-books)
+- [XR events](#xr-events)
 
-[Upcoming XR events](#upcoming-xr-events)
+# March 2018 2nd meeting
+
+[Here are the overview slides](https://docs.google.com/presentation/d/1D0csu2IQNT3SuiwCzUvVpvC3-WqLaK4yFOSNOp6MPqs)
+and [the slides for Tom G's talk "Hacking networking solutions for common problems"](https://docs.google.com/presentation/d/1t0T5q8b-XaSCKQ2wC9g_IdqMdhBNCboh2re1eBAgbJU).
+
+## VR equipment and development space updates
+
+TLDR: We will get new equipment soon, and have a space for VR development. Until we have a clear procedure for booking the VR dev space talk with Tom G.
+
+See the overview slides for more details.
+
+## Possible plans for future meetings
+
+- Tom D: Crowdsource Unity XR workshop contents from people with current and previous experience
+- Emily: Procedural content generation with WebGL.
+
+## Development workspace TODOs
+
+- Get access to the human interaction lab for the VR people.
+- Connect PCs to the network. A ethernet connected router can connect up to 4 PCs. One PC (the one that Tom G is using at the moment) have WiFi.
+- Setup a new calendar to book the VR development desks. A calendar for booking the room for experiments [already exists](https://calendar.google.com/calendar/embed?src=fm79rp7t9pshovrqlf5esfjvno%40group.calendar.google.com). Contact Daniel G / Sophie S to be added.
+- Create a booking instructions page here on github.
+- Organize the room to accommodate more people (move trash out, bring desks and new VR equipment in). Tom G is responsible for it.
 
 # February 2018 First meeting
 
@@ -44,10 +69,21 @@ Suggested alternatives:
 - Github Wiki
 - Slack (an existing channel)
 
-# Upcoming XR Events
+# XR books
 
-+ [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
+- Jerald (2015) The VR Book: Human-Centered Design for Virtual Reality
+- Turkle (2013) Alone Together; Why we Expect more from Technology and Less from Each Other
+- Rose (2012) The art of immersion: how the digital generation is remaking Hollywood, Madison Avenue, and the way we tell stories
+- Bolter et al. (2003) Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency
+- Bailenson (2018) Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
+
+# XR Events
+
 + [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
 + [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
 + [Future tech now](https://www.virtualrealityshow.co.uk/), early April
 + [VR World](https://vrworldevent.com/), late May
+
+## Past events
+
++ 28 Feb 2018: [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
