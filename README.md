@@ -7,6 +7,7 @@ General place to store meeting notes and info
 - [February 2018 First meeting](#february-2018-first-meeting)
 - [XR books](#xr-books)
 - [XR events](#xr-events)
+- [Conferences](#conferences)
 
 # March 2018 2nd meeting
 
@@ -79,11 +80,23 @@ Suggested alternatives:
 
 # XR Events
 
-+ [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
 + [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
 + [Future tech now](https://www.virtualrealityshow.co.uk/), early April
++ [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
 + [VR World](https://vrworldevent.com/), late May
 
 ## Past events
 
 + 28 Feb 2018: [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
++ [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
+
+# Conferences
+
+# Submission open
+
++ [KogWis 2018](https://www.tu-darmstadt.de/kogwis2018/kogwis_1/index.en.jsp), submission by 20th April 2018, details [here](http://www.gk-ev.de/?cat=5&lang=en#post-1964).
++ [ISMAR 2018](https://ismar2018.org/), submission by19 March 2018
+
+# Previous
+
++ [IEEE VR 2018](http://www.ieeevr.org/2018)
