@@ -83,6 +83,7 @@ Suggested alternatives:
 + [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
 + [Future tech now](https://www.virtualrealityshow.co.uk/), early April
 + [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
++ [Digital Reality Lab](https://www.curiousdirective.com/whowerelookingfor/) - Theatre in the age of VR, 11-12 April
 + [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
 + [VR World](https://vrworldevent.com/), late May
 
