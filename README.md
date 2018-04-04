@@ -3,11 +3,24 @@ General place to store meeting notes and info
 
 # TOC
 
+- [April 2018 3rd meeting](#april-2018-3rd-meeting)
 - [March 2018 2nd meeting](#march-2018-2nd-meeting)
 - [February 2018 First meeting](#february-2018-first-meeting)
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# April 2018 3rd meeting
+
+## Shiv and Angela: Update on project
+
+## Thomas Deacon: Creative coding in Unity for VR
+
+Slides used available [here](http://simp.ly/publish/S1y8jp), link may break in time.
+
+Key makeaway, think about what features you would like to be able to prototype easily and Tom will try to integrate them into [Klak](https://github.com/Adjuvant/Klak). Currently working on porting [toxiclibs](http://toxiclibs.org/) to C#, then will create wiring containers for Klak.
+
+## Update about equipment and rooms
 
 # March 2018 2nd meeting
 
