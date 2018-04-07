@@ -14,6 +14,8 @@ General place to store meeting notes and info
 
 ## Shiv and Angela: Update on project
 
+The slides are [here](https://docs.google.com/presentation/d/1AhRQKJ_ZRqJI9NUFLgMlIvrji_kTAulMJ0tkUXXU1A0/edit).
+
 ## Thomas Deacon: Creative coding in Unity for VR
 
 Slides used available [here](http://simp.ly/publish/S1y8jp), link may break in time.
