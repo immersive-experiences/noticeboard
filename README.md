@@ -87,6 +87,8 @@ Suggested alternatives:
 
 # XR books
 
+After asking for them, the following books are being bought, should arrive in a month or so. Unitl end of April 2018 to ask for more! Turkle is already in the library:
+
 - Jerald (2015) The VR Book: Human-Centered Design for Virtual Reality
 - Turkle (2013) Alone Together; Why we Expect more from Technology and Less from Each Other
 - Rose (2012) The art of immersion: how the digital generation is remaking Hollywood, Madison Avenue, and the way we tell stories
