@@ -97,10 +97,6 @@ After asking for them, the following books are being bought, should arrive in a 
 
 # XR Events
 
-+ [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
-+ [Future tech now](https://www.virtualrealityshow.co.uk/), early April
-+ [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
-+ [Digital Reality Lab](https://www.curiousdirective.com/whowerelookingfor/) - Theatre in the age of VR, 11-12 April
 + [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
 + [VR World](https://vrworldevent.com/), late May
 
@@ -108,6 +104,10 @@ After asking for them, the following books are being bought, should arrive in a 
 
 + 28 Feb 2018: [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
 + [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
++ [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
++ [Future tech now](https://www.virtualrealityshow.co.uk/), early April
++ [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
++ [Digital Reality Lab](https://www.curiousdirective.com/whowerelookingfor/) - Theatre in the age of VR, 11-12 April
 
 # Conferences
 
