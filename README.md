@@ -98,6 +98,7 @@ After asking for them, the following books are being bought, should arrive in a 
 # XR Events
 
 + [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
++ London LASER Labs #1 [playlabs](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-1-playlab-500pm-615pm-tickets-43038116164) and [talks](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-2-talks-7pm-9pm-tickets-45102311227), 26 April
 + [VR World](https://vrworldevent.com/), late May
 
 ## Past events
