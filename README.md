@@ -97,9 +97,6 @@ After asking for them, the following books are being bought, should arrive in a 
 
 # XR Events
 
-+ [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
-+ London LASER Labs #1 [playlabs](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-1-playlab-500pm-615pm-tickets-43038116164) and [talks](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-2-talks-7pm-9pm-tickets-45102311227), 26 April
-+ [In conversation with Jeremy Bailenson & Jeremy Silver](https://www.eventbrite.co.uk/e/in-conversation-with-jeremy-bailenson-jeremy-silver-registration-44450926919), 26 April
 + [VR World](https://vrworldevent.com/), late May
 
 ## Past events
@@ -110,6 +107,9 @@ After asking for them, the following books are being bought, should arrive in a 
 + [Future tech now](https://www.virtualrealityshow.co.uk/), early April
 + [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
 + [Digital Reality Lab](https://www.curiousdirective.com/whowerelookingfor/) - Theatre in the age of VR, 11-12 April
++ [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
++ London LASER Labs #1 [playlabs](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-1-playlab-500pm-615pm-tickets-43038116164) and [talks](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-2-talks-7pm-9pm-tickets-45102311227), 26 April
++ [In conversation with Jeremy Bailenson & Jeremy Silver](https://www.eventbrite.co.uk/e/in-conversation-with-jeremy-bailenson-jeremy-silver-registration-44450926919), 26 April
 
 # Conferences
 
