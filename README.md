@@ -97,6 +97,7 @@ After asking for them, the following books are being bought, should arrive in a 
 
 # XR Events
 
++ [VR Diversity Initiative at Plexal (workshop)](https://docs.google.com/forms/d/e/1FAIpQLSf5wxzgb12YXCpZh9HUDU5Drm7EJMRiM1fkVu8S8WvK-BHX3Q/viewform), 8 May
 + [VR World](https://vrworldevent.com/), late May
 
 ## Past events
