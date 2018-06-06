@@ -3,12 +3,30 @@ General place to store meeting notes and info
 
 # TOC
 
+- [June 2018 4th meeting](#june-2018-4th-meeting)
 - [April 2018 3rd meeting](#april-2018-3rd-meeting)
 - [March 2018 2nd meeting](#march-2018-2nd-meeting)
 - [February 2018 First meeting](#february-2018-first-meeting)
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# June 2018 4th meeting
+
+## Tom G: Notes from Bailenson's talk at the digital catapult on 26.4.2018
+
+The slides are [here](https://docs.google.com/presentation/d/16bUgMPL8-KaXsH1GqJicSz_0xGXj6-cEqSc17qSigWE/edit).
+
+## Daniel: Using machine learning in unity
+
+Main takeaways:
+
+- [Accord](http://accord-framework.net/) is a .NET machine learning framework that you can easily integrate into unity.
+- When building the unity project the content of the resources folder doesn't copy to the build folder. Files will be compiled into the project. To bypass this problem use the lower level FileIO tools that are provided with c# and not the higher level CSV writer and reader.
+
+## Leshao: Manipulating and logging transforms
+
+The slides are [here](TODO).
 
 # April 2018 3rd meeting
 
