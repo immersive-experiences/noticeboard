@@ -22,11 +22,12 @@ The slides are [here](https://docs.google.com/presentation/d/16bUgMPL8-KaXsH1GqJ
 Main takeaways:
 
 - [Accord](http://accord-framework.net/) is a .NET machine learning framework that you can easily integrate into unity.
-- When building the unity project the content of the resources folder doesn't copy to the build folder. Files will be compiled into the project. To bypass this problem use the lower level FileIO tools that are provided with c# and not the higher level CSV writer and reader.
+- When building the unity project the content of the resources folder will be compiled into the project, not being available in the Resources folder. To bypass this problem use the lower level File.IO tools that are provided with c# and not the higher level CSV writer and reader. In other words, if you want to load a file that is not in the Resources folder when building the project (ie: generated in run time), you will need to load it using File.IO resources, not CsvReader or similar classes.
+- AppleScript can save you a lot of headaches if you want to interact with another app in Mac (this is not related to ML but a useful tip i think).
 
 ## Leshao: Manipulating and logging transforms
 
-The slides are [here](TODO).
+The slides are [here](https://drive.google.com/open?id=1aA606QVwiD4FPDuqKLaui7ugWTEsQYW7).
 
 # April 2018 3rd meeting
 
