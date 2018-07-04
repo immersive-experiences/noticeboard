@@ -3,6 +3,7 @@ General place to store meeting notes and info
 
 # TOC
 
+- [July 2018 5th meeting](#july-2018-5th-meeting)
 - [June 2018 4th meeting](#june-2018-4th-meeting)
 - [April 2018 3rd meeting](#april-2018-3rd-meeting)
 - [March 2018 2nd meeting](#march-2018-2nd-meeting)
@@ -10,6 +11,33 @@ General place to store meeting notes and info
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# July 2018 5th meeting
+
+The slides are [here](https://www.doesnotexist.com/)
+
+## Part A: Teleportation in VR
+
+Discussion forwarded ideas for
+
++ Guidelines on using teleportation in social VR 
++ Alternate methods of teleporation using locomotion of avatar in the scene
++ When teleporting into each other in VR, features could be designed to allow preference of body-space similar to proxemics, you can decide how close people get.
++ how understanding the controllers change behaviour when using devices, faster cycles between teleport jumps
+
+## Part B: Ethics and long-term effects
+
++ *Ethics*: Suggestion to start a page on the noticeboard repo collating discourses on long-term effects and ethical questions on the use of VR. 
++ *Reality blurring*: [Link to paper on exiting VR, from an experience design perspective](http://jarrodknibbe.com/files/DreamIsCollapsing.pdf)
++ *Harassment in VR*: and upcoming online event in High Fidelity challenging it by discussing inclusive behaviour
++ *Harassment in VR*: Negative effect of gamification making bad behaviour a fun thing, it is important to have **consequences** in online embodied interaction spaces.
++ *Identity*: Body image and ownership
++ *Reality blurring*: UCL Andrew Burn - Study of children not separating realities
+
+## Part C: Digital Catapult augmentor meetup and other bits
+
++ Asymmetric VR - Bailenson study on everyone being in the front seat
++ Idea to explore zero-gravity social interaction in VR
 
 # June 2018 4th meeting
 
