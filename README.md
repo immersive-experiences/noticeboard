@@ -3,6 +3,7 @@ General place to store meeting notes and info
 
 # TOC
 
+- [October 2018 6th meeting](#october-2018-6th-meeting)
 - [July 2018 5th meeting](#july-2018-5th-meeting)
 - [June 2018 4th meeting](#june-2018-4th-meeting)
 - [April 2018 3rd meeting](#april-2018-3rd-meeting)
@@ -11,6 +12,12 @@ General place to store meeting notes and info
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# October 2018 6th meeting
+
+Vivek presented his first study design which focuses on modelling player experience in Augmented Reality Mobile Games. His study explores the relationship between a player's behaviour (measured through sensors data) in a game and the player's preferences to different level designs. Vivek's slides are [here](https://docs.google.com/presentation/d/1h4L9BZjvKeIf4xsGG7V67CEipnGgCG9S6Ksk24Pslyw).
+
+We also discussed the possibility to visit the Digital Catapult next month instead of a VR SIG meeting. TBC.
 
 # July 2018 5th meeting
 
