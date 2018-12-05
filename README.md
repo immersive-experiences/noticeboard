@@ -3,6 +3,7 @@ General place to store meeting notes and info
 
 # TOC
 
+- [December 2018 7th meeting](#december-2018-7th-meeting)
 - [October 2018 6th meeting](#october-2018-6th-meeting)
 - [July 2018 5th meeting](#july-2018-5th-meeting)
 - [June 2018 4th meeting](#june-2018-4th-meeting)
@@ -12,6 +13,20 @@ General place to store meeting notes and info
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# December 2018 7th meeting
+
+**Francesco** presented his PhD topic: **Sound and Haptics to Represent Motion in VR**. His proposed research aims to explore crossmodal mappings between sound and haptics, in particular vibrotactile feedback. These two stimuli will be used to test motion illusion (also called Vection) in Virtual Reality applications. In particular the aim is to analyse the user experience within virtual reality applications in terms of movement and different types of locomotion (e.g. linear, point-to-point, variable speed).
+
+Francesco's presentation can be found [here](https://drive.google.com/open?id=14plkgD0hWTZXBds2zI-d9NzjvDWDXm27yJGsjw_foqk).
+
+**Tom G** talked about **designing a study versus designing a game**, presenting the evolution of his system and method for testing models of listeners non-verbal responses. The talk highlighted the problems he encountered from using a game-like environment for his studies and the plans to overcome them in the future.
+
+Tom's presentation can be found [here](https://docs.google.com/presentation/d/1nLk4OUKhSw_d39ssCripFL1R2OswbjR_VYfxRLirtWY).
+
+We discussed the next VR equipment purchase, managed by Liang.
+
+Finnaly, we voted on a new name for the group to represent our interest in VR, AR, and 3D audio. From now on we are the **Immersive Experiences working group**.
 
 # October 2018 6th meeting
 
