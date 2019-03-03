@@ -3,6 +3,7 @@ General place to store meeting notes and info
 
 # TOC
 
+- [February 2019 8th meeting](#february-2019-8th-meeting)
 - [December 2018 7th meeting](#december-2018-7th-meeting)
 - [October 2018 6th meeting](#october-2018-6th-meeting)
 - [July 2018 5th meeting](#july-2018-5th-meeting)
@@ -13,6 +14,12 @@ General place to store meeting notes and info
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+# February 2019 8th meeting
+
+**Rishi** presented a summary of his research to date on **Binaural virtual auditory display for music content recommendation and navigation**. He took a tour through some of the issues, approaches and findings that he's encountered so far in developing an interactive environment founded principally on 3D audio. This included demonstration of a novel and computationally lightweight approach to rendering head-tracked binaural auditory scenes.
+
+Rishi's presentation can be found [here](files/rishi_2019-02-06.pdf).
 
 # December 2018 7th meeting
 
