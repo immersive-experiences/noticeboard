@@ -2,7 +2,8 @@
 
 ## VR equipment
 
-- 
+- Hololens?
+- Pimax 5K VR?
 
 ## Possible plans for future meetings
 
