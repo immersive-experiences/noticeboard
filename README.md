@@ -23,9 +23,6 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 - [April 2018 3rd meeting](#april-2018-3rd-meeting)
 - [March 2018 2nd meeting](#march-2018-2nd-meeting)
 - [February 2018 First meeting](#february-2018-first-meeting)
-- [XR books](#xr-books)
-- [XR events](#xr-events)
-- [Conferences](#conferences)
 
 
 # October 2019 10th meeting
