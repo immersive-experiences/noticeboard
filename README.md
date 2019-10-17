@@ -6,7 +6,7 @@ Here you can find infos, minutes and slides of the previous presentations.
 We are a group of (mostly) [MAT](http://www.mat.qmul.ac.uk/) PhD students working in various areas ranging from sound processing to cognitive science. Everyone is welcome to join.
 
 # What
-The IX Working Group aim is to meet and discuss topics related to Virtual Reality and 3D Sound. Every meeting someone presents their work, sometimes to gather feedback, sometimes to share knowledge. We don't take a rigid seminar-like structure but a more informal approach to content sharing. Occasionally we invite guest speakers to present their research.
+The IX Working Group aim is to meet and discuss topics/news/issues/WIP related to Virtual Reality and 3D Sound. Every meeting someone from the group present their work, sometimes to gather feedback, sometimes to share knowledge. We don't take a rigid seminar-like structure but a more informal approach to content sharing. Occasionally we invite guest speakers to present their research.
 
 # When & Where
 We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineering building) 11:00 - 12:00.
@@ -124,38 +124,3 @@ and [the slides for Tom G's talk "Hacking networking solutions for common proble
 # February 2018 First meeting
 
 [Slides](https://docs.google.com/presentation/d/1NTPZCPLHcQTjz8u_o3n9lVqX_WWQ9SZ_CYSEcLv29To)
-
-
--------------------------------------------
-
-# XR books
-
-After asking for them, the following books are being bought, should arrive in a month or so. Unitl end of April 2018 to ask for more! Turkle is already in the library:
-
-- Jerald (2015) The VR Book: Human-Centered Design for Virtual Reality
-- Turkle (2013) Alone Together; Why we Expect more from Technology and Less from Each Other
-- Rose (2012) The art of immersion: how the digital generation is remaking Hollywood, Madison Avenue, and the way we tell stories
-- Bolter et al. (2003) Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency
-- Bailenson (2018) Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
-
-# XR Events
-
-+ [VR Diversity Initiative at Plexal (workshop)](https://docs.google.com/forms/d/e/1FAIpQLSf5wxzgb12YXCpZh9HUDU5Drm7EJMRiM1fkVu8S8WvK-BHX3Q/viewform), 8 May
-+ [VR World](https://vrworldevent.com/), late May
-
-## Past events
-
-+ 28 Feb 2018: [VR Diversity Initiative Kick-Off! event](https://www.vrfocus.com/2018/02/vr-diversity-initiative-launches-2018-campaign/). The initiative aims to make the VR industry more inclusive by introducing XR technologies such as VR/AR and MR through free one-day workshops to under-represented groups. It will be the first of 6 VR Diversity Initiative events running in 2018. 28th February 2018, at Here East, [Hobbs Studio](https://hobsstudio.com/). Contact Tom D if you want direct contact info.
-+ [Wearable technology show](http://www.wearabletechnologyshow.net/), early March
-+ [XR Pitch and demo night](https://www.eventbrite.com/e/xr-pitch-demo-night-tickets-42524910151?mc_cid=c8ef444ab1&mc_eid=eafc0302ed), late March
-+ [Future tech now](https://www.virtualrealityshow.co.uk/), early April
-+ [Laval Virtual](https://www.laval-virtual.org/),  4-8 April, France
-+ [Digital Reality Lab](https://www.curiousdirective.com/whowerelookingfor/) - Theatre in the age of VR, 11-12 April
-+ [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
-+ London LASER Labs #1 [playlabs](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-1-playlab-500pm-615pm-tickets-43038116164) and [talks](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-2-talks-7pm-9pm-tickets-45102311227), 26 April
-+ [In conversation with Jeremy Bailenson & Jeremy Silver](https://www.eventbrite.co.uk/e/in-conversation-with-jeremy-bailenson-jeremy-silver-registration-44450926919), 26 April
-
-# Past conferences
-+ [KogWis 2018](https://www.tu-darmstadt.de/kogwis2018/kogwis_1/index.en.jsp), submission by 20th April 2018, details [here](http://www.gk-ev.de/?cat=5&lang=en#post-1964).
-+ [ISMAR 2018](https://ismar2018.org/), submission by19 March 2018
-+ [IEEE VR 2018](http://www.ieeevr.org/2018)
