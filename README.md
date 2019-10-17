@@ -121,25 +121,6 @@ Key makeaway, think about what features you would like to be able to prototype e
 [Here are the overview slides](https://docs.google.com/presentation/d/1D0csu2IQNT3SuiwCzUvVpvC3-WqLaK4yFOSNOp6MPqs)
 and [the slides for Tom G's talk "Hacking networking solutions for common problems"](https://docs.google.com/presentation/d/1t0T5q8b-XaSCKQ2wC9g_IdqMdhBNCboh2re1eBAgbJU).
 
-## VR equipment and development space updates
-
-TLDR: We will get new equipment soon, and have a space for VR development. Until we have a clear procedure for booking the VR dev space talk with Tom G.
-
-See the overview slides for more details.
-
-## Possible plans for future meetings
-
-- Tom D: Crowdsource Unity XR workshop contents from people with current and previous experience
-- Emily: Procedural content generation with WebGL.
-
-## Development workspace TODOs
-
-- Get access to the human interaction lab for the VR people.
-- Connect PCs to the network. A ethernet connected router can connect up to 4 PCs. One PC (the one that Tom G is using at the moment) have WiFi.
-- Setup a new calendar to book the VR development desks. A calendar for booking the room for experiments [already exists](https://calendar.google.com/calendar/embed?src=fm79rp7t9pshovrqlf5esfjvno%40group.calendar.google.com). Contact Daniel G / Sophie S to be added.
-- Create a booking instructions page here on github.
-- Organize the room to accommodate more people (move trash out, bring desks and new VR equipment in). Tom G is responsible for it.
-
 # February 2018 First meeting
 
 [Here are the slides](https://docs.google.com/presentation/d/1NTPZCPLHcQTjz8u_o3n9lVqX_WWQ9SZ_CYSEcLv29To)
