@@ -13,6 +13,8 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 
 # TOC
 
+- [October 2019 10th meeting](#october-2019-10th-meeting)
+- April 2019 9th meeting (Guest Talk: Prof. Antonia Hamilton)
 - [February 2019 8th meeting](#february-2019-8th-meeting)
 - [December 2018 7th meeting](#december-2018-7th-meeting)
 - [October 2018 6th meeting](#october-2018-6th-meeting)
@@ -24,6 +26,10 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 - [XR books](#xr-books)
 - [XR events](#xr-events)
 - [Conferences](#conferences)
+
+
+# October 2019 10th meeting
+**Francesco** presented his experimental design for his first study on **The role of haptic feedback in the perception of motion in Virtual Reality**. He presented the design and discussed the potential limitations and/or issues that could arise. Francesco's presentation can be found [here] (files/Francesco_2019-10.pdf)
 
 # February 2019 8th meeting
 
