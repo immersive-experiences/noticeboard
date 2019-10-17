@@ -1,4 +1,4 @@
-# noticeboard
+# IX Noticeboard
 Welcome to the Immersive Experiences (IX) Working Group repository!
 Here you can find minutes and slides of the previous presentations.
 
