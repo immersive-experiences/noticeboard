@@ -15,3 +15,4 @@
 ## Misc
 
 - Create a booking instructions page here on github.
+- From now on (Oct 2019) we should collect presentations as pdf to uplaod them here so not to lose them over time
