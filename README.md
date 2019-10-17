@@ -3,13 +3,13 @@ Welcome to the Immersive Experiences (IX) Working Group repository!
 Here you can find infos, minutes and slides of the previous presentations.
 
 # Who
-We are a group of (mostly) PhD students working in various areas ranging from sound processing to cognitive science. Everyone is welcome to join.
+We are a group of (mostly) [MAT](http://www.mat.qmul.ac.uk/) PhD students working in various areas ranging from sound processing to cognitive science. Everyone is welcome to join.
 
 # What
 The IX Working Group aim is to meet and discuss topics related to Virtual Reality and 3D Sound. Every meeting someone presents their work, sometimes to gather feedback, sometimes to share knowledge. We don't take a rigid seminar-like structure but a more informal approach to content sharing. Occasionally we invite guest speakers to present their research.
 
 # When & Where
-We meet every 1st Wednesday of the month in room G2 (Performance Lab) 11:00 - 12:00.
+We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineering building) 11:00 - 12:00.
 
 # TOC
 
