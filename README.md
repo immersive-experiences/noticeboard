@@ -29,7 +29,9 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 
 
 # October 2019 10th meeting
+
 **Francesco** presented his experimental design for his first study on **The role of haptic feedback in the perception of motion in Virtual Reality**. He presented the design and discussed the potential limitations and/or issues that could arise. Francesco's presentation can be found [here](files/Francesco_2019-10.pdf)
+**Thomas Deacon**. presented a tutorial/technical talk: **using "Lab Streaming Layer" to collect synchronised data in VR experiments**
 
 # February 2019 8th meeting
 
@@ -59,7 +61,7 @@ We also discussed the possibility to visit the Digital Catapult next month inste
 
 # July 2018 5th meeting
 
-The slides are [here](https://www.doesnotexist.com/)
+[Slides](https://www.doesnotexist.com/)
 
 ## Part A: Teleportation in VR
 
@@ -88,11 +90,9 @@ Discussion forwarded ideas for
 
 ## Tom G: Notes from Bailenson's talk at the digital catapult on 26.4.2018
 
-The slides are [here](https://docs.google.com/presentation/d/16bUgMPL8-KaXsH1GqJicSz_0xGXj6-cEqSc17qSigWE/edit).
+[Slides](https://docs.google.com/presentation/d/16bUgMPL8-KaXsH1GqJicSz_0xGXj6-cEqSc17qSigWE/edit).
 
 ## Daniel: Using machine learning in unity
-
-Main takeaways:
 
 - [Accord](http://accord-framework.net/) is a .NET machine learning framework that you can easily integrate into unity.
 - When building the unity project the content of the resources folder will be compiled into the project, not being available in the Resources folder. To bypass this problem use the lower level File.IO tools that are provided with c# and not the higher level CSV writer and reader. In other words, if you want to load a file that is not in the Resources folder when building the project (ie: generated in run time), you will need to load it using File.IO resources, not CsvReader or similar classes.
@@ -100,17 +100,17 @@ Main takeaways:
 
 ## Leshao: Manipulating and logging transforms
 
-The slides are [here](https://drive.google.com/open?id=1aA606QVwiD4FPDuqKLaui7ugWTEsQYW7).
+[Slides](https://drive.google.com/open?id=1aA606QVwiD4FPDuqKLaui7ugWTEsQYW7).
 
 # April 2018 3rd meeting
 
 ## Shiv and Angela: Update on project
 
-The slides are [here](https://docs.google.com/presentation/d/1AhRQKJ_ZRqJI9NUFLgMlIvrji_kTAulMJ0tkUXXU1A0/edit).
+[Slides](https://docs.google.com/presentation/d/1AhRQKJ_ZRqJI9NUFLgMlIvrji_kTAulMJ0tkUXXU1A0/edit).
 
 ## Thomas Deacon: Creative coding in Unity for VR
 
-Slides used available [here](http://simp.ly/publish/S1y8jp), link may break in time.
+[Slides](http://simp.ly/publish/S1y8jp), link may break in time.
 
 Key makeaway, think about what features you would like to be able to prototype easily and Tom will try to integrate them into [Klak](https://github.com/Adjuvant/Klak). Currently working on porting [toxiclibs](http://toxiclibs.org/) to C#, then will create wiring containers for Klak.
 
