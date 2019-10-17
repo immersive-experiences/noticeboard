@@ -31,6 +31,7 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 # October 2019 10th meeting
 
 **Francesco** presented his experimental design for his first study on **The role of haptic feedback in the perception of motion in Virtual Reality**. He presented the design and discussed the potential limitations and/or issues that could arise. Francesco's presentation can be found [here](files/Francesco_2019-10.pdf)
+
 **Thomas Deacon**. presented a tutorial/technical talk: **using "Lab Streaming Layer" to collect synchronised data in VR experiments**
 
 # February 2019 8th meeting
