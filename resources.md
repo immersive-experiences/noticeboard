@@ -10,6 +10,7 @@
 
 + [VR World](https://vrworldevent.com/), late May
 + [Soundstack 2019](http://angelamcarthur.com/soundstack-2019/)
++ [IEEE VR 2019](http://ieeevr.org/2019/)
 
 ## Past events
 
@@ -24,8 +25,6 @@
 + [A MAZE Berlin](http://www.amaze-berlin.de/) - 7th International Games and Playful Media Festival, 25-29 April, Berlin
 + London LASER Labs #1 [playlabs](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-1-playlab-500pm-615pm-tickets-43038116164) and [talks](https://www.eventbrite.co.uk/e/london-laser-labs-1-virtual-imaginaries-part-2-talks-7pm-9pm-tickets-45102311227), 26 April
 + [In conversation with Jeremy Bailenson & Jeremy Silver](https://www.eventbrite.co.uk/e/in-conversation-with-jeremy-bailenson-jeremy-silver-registration-44450926919), 26 April
-
-# Past conferences
 + [KogWis 2018](https://www.tu-darmstadt.de/kogwis2018/kogwis_1/index.en.jsp), submission by 20th April 2018, details [here](http://www.gk-ev.de/?cat=5&lang=en#post-1964).
 + [ISMAR 2018](https://ismar2018.org/), submission by19 March 2018
 + [IEEE VR 2018](http://www.ieeevr.org/2018)
