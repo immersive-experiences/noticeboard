@@ -1,3 +1,8 @@
+# IX Equipment available
+
+The list of equipment is in the [Wiki](https://github.com/immersive-experiences/noticeboard/wiki/Equipment)
+To book equipment you need to be added to our calendar.
+
 # IX books
 
 - Jerald (2015) The VR Book: Human-Centered Design for Virtual Reality
