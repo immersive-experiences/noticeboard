@@ -11,8 +11,7 @@
 
 ## Workspaces (HCI lab, room 104 etc)
 
-- desktop computers are cluttered (maybe better to have multiple personal accounts?)
-- need 1 extra extension cables/multiplug or fix wall sockets
+- 
 
 ## Misc
 
