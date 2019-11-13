@@ -13,6 +13,7 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 
 # TOC
 
+- [November 2019 11th meeting](#november-2019-11th-meeting)
 - [October 2019 10th meeting](#october-2019-10th-meeting)
 - April 2019 9th meeting (Guest Talk: Prof. Antonia Hamilton)
 - [February 2019 8th meeting](#february-2019-8th-meeting)
@@ -24,6 +25,10 @@ We meet every 1st Wednesday of the month in room G2 (Performance Lab, Engineerin
 - [March 2018 2nd meeting](#march-2018-2nd-meeting)
 - [February 2018 First meeting](#february-2018-first-meeting)
 
+# November 2019 11th meeting
+**Shivani** presented her past and current research on **Effort and Sense of Embodiment in VR**. She discussed presence, physical effort and agency. She also discussed her last study design on virtual flying with various degrees of physical effort required. Shivani's slides can be found [here](files/Shivani_2019-11.pdf)
+
+Guest speaker **Jeffrey Ferguson** [personal page]( https://www.westminster.ac.uk/about-us/our-people/directory/ferguson-jeffrey#publications), Lecturer and researcher, in charge of XR at Westminister University, presented his previous works adn experience as well as his lab and the projects they do with students.
 
 # October 2019 10th meeting
 
